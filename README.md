@@ -1,4 +1,4 @@
-# Dicee-challenge
+# Dicee
 This is a dicee project. I made a dice which uses the HTML, CSS and Javascript. This project was build to enhance the knowledge of DOM manipulation.
 To run the project locally--
 
